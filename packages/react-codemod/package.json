@@ -16,7 +16,7 @@
     "react-codemod": "./react-codemod"
   },
   "dependencies": {
-    "jscodeshift": "^0.1.0"
+    "jscodeshift": "^0.15.2"
   },
   "devDependencies": {
     "babel": "^4.7.16",
